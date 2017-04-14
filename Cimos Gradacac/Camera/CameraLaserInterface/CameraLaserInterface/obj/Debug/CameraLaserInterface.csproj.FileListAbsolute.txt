@@ -1,0 +1,9 @@
+F:\Cimos Gradacac\Camera\CameraLaserInterface\CameraLaserInterface\bin\Debug\CameraLaserInterface.exe.config
+F:\Cimos Gradacac\Camera\CameraLaserInterface\CameraLaserInterface\bin\Debug\CameraLaserInterface.exe
+F:\Cimos Gradacac\Camera\CameraLaserInterface\CameraLaserInterface\bin\Debug\CameraLaserInterface.pdb
+F:\Cimos Gradacac\Camera\CameraLaserInterface\CameraLaserInterface\obj\Debug\CameraLaserInterface.csprojResolveAssemblyReference.cache
+F:\Cimos Gradacac\Camera\CameraLaserInterface\CameraLaserInterface\obj\Debug\CameraLaserInterface.Form1.resources
+F:\Cimos Gradacac\Camera\CameraLaserInterface\CameraLaserInterface\obj\Debug\CameraLaserInterface.Properties.Resources.resources
+F:\Cimos Gradacac\Camera\CameraLaserInterface\CameraLaserInterface\obj\Debug\CameraLaserInterface.csproj.GenerateResource.Cache
+F:\Cimos Gradacac\Camera\CameraLaserInterface\CameraLaserInterface\obj\Debug\CameraLaserInterface.exe
+F:\Cimos Gradacac\Camera\CameraLaserInterface\CameraLaserInterface\obj\Debug\CameraLaserInterface.pdb
